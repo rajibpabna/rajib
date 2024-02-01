@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="" tvg-logo="image" group-title="Hindi", abc
+https://is.gd/sportshd.m3u
+#EXTM3U
+#EXTINF:-1 tvg-name="" tvg-logo="image" group-title="Hindi", enter10
+https://live.bongobd.com/hls/TWHlP95BBEk7R1QopX8fDQ/1706532255/zee_news.m3u8
